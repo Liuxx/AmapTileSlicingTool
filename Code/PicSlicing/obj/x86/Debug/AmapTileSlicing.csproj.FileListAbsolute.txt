@@ -1,0 +1,7 @@
+D:\workNew\AmapTileSlicing\PicSlicing\bin\Debug\AmapTileSlicing.exe
+D:\workNew\AmapTileSlicing\PicSlicing\bin\Debug\AmapTileSlicing.pdb
+D:\workNew\AmapTileSlicing\PicSlicing\obj\x86\Debug\AmapTileSlicing.Main.resources
+D:\workNew\AmapTileSlicing\PicSlicing\obj\x86\Debug\AmapTileSlicing.Properties.Resources.resources
+D:\workNew\AmapTileSlicing\PicSlicing\obj\x86\Debug\AmapTileSlicing.csproj.GenerateResource.Cache
+D:\workNew\AmapTileSlicing\PicSlicing\obj\x86\Debug\AmapTileSlicing.exe
+D:\workNew\AmapTileSlicing\PicSlicing\obj\x86\Debug\AmapTileSlicing.pdb

@@ -1,0 +1,8 @@
+D:\TestProjects\PicSlicing\PicSlicing\bin\Debug\PicSlicing.exe
+D:\TestProjects\PicSlicing\PicSlicing\bin\Debug\PicSlicing.pdb
+D:\TestProjects\PicSlicing\PicSlicing\obj\x86\Debug\PicSlicing.Main.resources
+D:\TestProjects\PicSlicing\PicSlicing\obj\x86\Debug\PicSlicing.Properties.Resources.resources
+D:\TestProjects\PicSlicing\PicSlicing\obj\x86\Debug\PicSlicing.csproj.GenerateResource.Cache
+D:\TestProjects\PicSlicing\PicSlicing\obj\x86\Debug\PicSlicing.exe
+D:\TestProjects\PicSlicing\PicSlicing\obj\x86\Debug\PicSlicing.pdb
+D:\TestProjects\PicSlicing\PicSlicing\obj\x86\Debug\PicSlicing.csprojResolveAssemblyReference.cache
